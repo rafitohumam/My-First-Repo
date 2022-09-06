@@ -4,4 +4,4 @@ NPM     : 2106633626
 
 Kelas   : E
 
-Hobi    : Otomotif
+Hobi    : Siko bagi dua
